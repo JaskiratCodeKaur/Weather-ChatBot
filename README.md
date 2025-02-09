@@ -36,7 +36,7 @@
 
 ```bash
 # Clone & setup
-git clone https://github.com/yourusername/weather-chatbot.git
+git clone https://github.com/JaskiratCodeKaur/Weather-ChatBot.git
 cd weather-chatbot
 pip install -r requirements.txt
 ```
