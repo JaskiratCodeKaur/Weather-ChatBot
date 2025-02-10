@@ -11,7 +11,7 @@
 ## 🎩 Features
 
 ### 🌤️ Core Capabilities
-- 🌡️ Real-time weather for 20,000+ cities
+- 🌡️ Real-time weather for 10,000+ cities
 - 📅 Date intelligence: _"Tomorrow"_ ➔ _"2024-03-15"_
 - 🎭 Personality-infused responses
 - 🔄 Context-aware conversations
